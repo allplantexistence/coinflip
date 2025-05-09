@@ -22,13 +22,14 @@ Output will be either `Heads` or `Tails`.
 
 ## 🛠️ Project Structure
 
+```
 coinflip/
 ├── build/ # Compiled output
 ├── include/ # Header file (coin.h)
 ├── src/ # Source code (main.c, coin.c)
 ├── Makefile # Build instructions
 └── README.md # You are here
-
+```
 
 
 ## 📄 License
