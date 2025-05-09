@@ -1,0 +1,23 @@
+# === Build artifacts ===
+build/
+*.o
+*.out
+*.elf
+*.exe
+*.a
+*.so
+*.dSYM/
+
+# === Editor and system files ===
+*.swp
+*.swo
+*~
+.DS_Store
+
+# === Logs and temp files ===
+*.log
+*.tmp
+
+# === Make clean fallback ===
+main
+
