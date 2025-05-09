@@ -39,4 +39,12 @@ This project is licensed under the [Apache 2.0 License](LICENSE).
 
 Made for fun and practice. No actual coins were harmed in the making of this program.
 
+## ❓ Why
+
+Just a small project to learn C, Git, and building things from scratch.
+
+## 🙏 Acknowledgments
+
+Thanks to [ChatGPT](https://chat.openai.com) for helping me get started with C , as this is my first C project.
+
 
