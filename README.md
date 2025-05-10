@@ -42,7 +42,7 @@ Made for fun and practice. No actual coins were harmed in the making of this pro
 
 ## ❓ Why
 
-Just a small project to learn C, Git, and building things from scratch.
+Just a small project to learn C, git hub specifics, and building things from scratch.
 
 ## 🙏 Acknowledgments
 
